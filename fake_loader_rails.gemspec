@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "fake_loader_rails"
   spec.version       = FakeLoaderRails::VERSION
   spec.authors       = ["Alexander Kiseliev"]
-  spec.email         = ["dev@enjoycreate.ru"]
+  spec.email         = ["dev@redrocks.pro"]
 
   spec.summary       = %q{fakeLoader.js for rails}
   spec.description   = %q{fakeLoader.js for rails}
-  spec.homepage      = "https://github.com/enjoycreative/fake_loader_rails"
+  spec.homepage      = "https://github.com/red-rocks/fake_loader_rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

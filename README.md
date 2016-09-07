@@ -7,17 +7,17 @@ Adding [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) in rails 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'fake_loader_rails', github: 'enjoycreative/fake_loader_rails'
+gem 'fake_loader_rails', github: 'red-rocks/fake_loader_rails'
 ```
 
 And then execute:
 
     $ bundle
 
-<!--- 
+<!---
 Or install it yourself as:
 
-    $ gem install fake_loader_rails 
+    $ gem install fake_loader_rails
 --->
 
 ## Usage
@@ -48,7 +48,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/enjoycreative/fake_loader_rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/red-rocks/fake_loader_rails.
 
 
 ## License
